@@ -4,6 +4,14 @@
     "slug": "travel-app-rn",
     "version": "1.0.0",
     "userInterfaceStyle": "automatic",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
     "newArchEnabled": true,
     "web": {
       "bundler": "metro",
